@@ -1,0 +1,1 @@
+Edytor tekstu MyNote 4.10
